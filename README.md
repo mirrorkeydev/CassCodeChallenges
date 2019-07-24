@@ -1,4 +1,4 @@
-# cass-code-challenges
+# CASS Code Challenges
 ## quine.pl
 If perl is not installed on linux, run:
 ```
